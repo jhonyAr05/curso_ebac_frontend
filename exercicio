@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+</head>
+
+<body>
+    
+    <header>
+        <h1>Meu portal de notícias</h1>
+        <nav>
+            <ul>
+                <li><a href="">Entretenimento</a></li>
+                <li><a href="">Tecnologia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Entretenimento</h2>
+        <article>
+        <img src="https://th.bing.com/th/id/OIP.Jj2EyENbYNvEpjAsCD60JAHaGN?rs=1&pid=ImgDetMain" alt="teatro">
+        <header>
+            <time>25/12/2024 ás 12:00</time>
+        </header>
+        <h3>Teatro</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi velit, deserunt rerum impedit ut molestiae, dignissimos reiciendis voluptates voluptate fugiat, ea quos facilis quas nihil officiis quaerat quam debitis. Et?</p>
+        <a href="">Ler mais</a>
+    </article>
+
+        <article>
+            <img src="https://www.mattosfilho.com.br/wp-content/uploads/2022/02/img-entretenimento.jpg" alt="duas pessoas assistindo tv">
+            <header>
+                <time>25/12/2024 ás 14:00</time>
+            </header>
+            <h3>Assistindo tv</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, nihil dolorem. Rerum impedit fugiat odit porro? Modi temporibus quaerat itaque repellendus architecto tenetur quasi placeat eius iste fugit. Rerum, quis.</p>
+            <a href="">Ler mais</a>
+        </article>
+
+        <article>
+            <img src="https://media.gazetadopovo.com.br/2022/08/19141347/games-960x540.jpg" alt="duas pessoas jogando video game">
+            <header>
+                <time>25/12/2024 ás 18:00</time>
+            </header>
+            <h3>Video game</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo possimus asperiores temporibus? Illo, omnis dolorum nulla necessitatibus iure autem pariatur, vel officiis quae iusto quas ad ullam atque? Eaque, laboriosam.</p>
+            <a href="">Ler mais</a>
+        </article>
+    </section>
+
+
+    <section>
+        <h2>Tecnologia</h2>
+        <article>
+            <img src="https://saberdefato.com.br/wp-content/uploads/2021/01/tecnologia-no-mundo-de-trabalho-1024x683.png" alt="uma pessoa comprimentando a tecnologia">
+            <header>
+                <time>26/12/2024 ás 09:00</time>
+            </header>
+            <h3>Apoio da Tecnologia</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa excepturi voluptas id quas, saepe in! Esse aspernatur, assumenda vel eveniet veritatis, voluptas perspiciatis accusamus vero vitae autem iure libero officia.</p>
+            <a href="">Ler mais</a>
+        </article>
+
+        <article>
+            <img src="https://ravel.com.br/blog/wp-content/uploads/2023/02/Tendencias-de-tecnologia-2023-Capa.jpg" alt="robor mexendo na tecnologia">
+            <header>
+                <time>27/12/2024 ás 08:30</time>
+            </header>
+            <h3>Robo tecnologico</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis, quis dicta, totam quas voluptate id ut officiis labore quam autem exercitationem minima temporibus fuga praesentium facere harum molestiae esse quasi.</p>
+            <a href="">Ler mais</a>
+        </article>
+
+        <article>
+            <img src="https://facil.com.br/_blog/5b55d90602aba.png" alt="uma mão mostrando as tecnologias">
+            <header>
+                <time>29/12/2024 ás 14:35</time>
+            </header>
+            <h3>Tecnologias</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae at, maiores amet saepe adipisci consequatur iste sit illum blanditiis, pariatur dicta, nesciunt perferendis. Sint voluptates animi neque unde quo quia!</p>
+            <a href="">Ler mais</a>
+        </article>
+    </section>
+
+</body>
+</html>
